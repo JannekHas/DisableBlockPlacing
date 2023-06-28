@@ -1,0 +1,7 @@
+#Blocks, where you cant place a block on top
+
+blocks:
+  - "WATER"
+  - "GRASS"
+  - "CARPET"
+  - "CROPS"
